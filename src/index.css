@@ -1,3 +1,6 @@
 @tailwind base;
 @tailwind components;
+
+/* HERE COMES YOUR CUSTOM CSS */
+
 @tailwind utilities;
