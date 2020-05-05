@@ -13,16 +13,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tailwindcss/ui": "^0.2.2",
-    "alpinejs": "^2.3.1",
-    "hyperapp": "^2.0.4",
-    "tailwindcss": "^1.4.1"
+    "@tailwindcss/ui": "latest",
+    "alpinejs": "latest",
+    "hyperapp": "latest",
+    "tailwindcss": "latest"
   },
   "devDependencies": {
-    "babel-core": "^6.26.3",
-    "babel-plugin-transform-react-jsx": "^6.24.1",
-    "babel-preset-env": "^1.7.0",
-    "parcel-bundler": "^1.12.4",
-    "postcss": "^7.0.27"
+    "babel-core": "latest",
+    "babel-plugin-transform-react-jsx": "latest",
+    "babel-preset-env": "latest",
+    "parcel-bundler": "latest",
+    "postcss": "latest"
   }
 }
